@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, this is Darshan 👋
 
 <!--
 **DarshanDalalTR/DarshanDalalTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>🔭 I'm currently working as a Software Engineer at <a href="https://www.thomsonreuters.com/">Thomson Reuters</a>.</p>
