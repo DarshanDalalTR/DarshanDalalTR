@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p>🔭 I'm currently working as a Software Engineer at <a href="https://www.thomsonreuters.com/">Thomson Reuters</a>.</p>
+
+<!--
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=darshandalaltr&show_icons=true" alt="darshandalaltr"/> 
+</p>
+-->
