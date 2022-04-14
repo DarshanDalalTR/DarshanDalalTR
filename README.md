@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>🔭 I'm currently working as a Software Engineer at <a href="https://www.thomsonreuters.com/">Thomson Reuters</a>.</p>
+<p>🔭 I'm currently working as a Software Engineer at <a href="https://fractal.ai/">Fractal Analytics</a>.</p>
 
 <!--
 <p align="left">
